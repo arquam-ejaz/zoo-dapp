@@ -1,0 +1,12 @@
+/mnt/e/NEAR Projects/zoo-dapp/contract/target/wasm32-unknown-unknown/release/deps/borsh-50c65a4a11f6a55b.rmeta: /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/mnt/e/NEAR Projects/zoo-dapp/contract/target/wasm32-unknown-unknown/release/deps/libborsh-50c65a4a11f6a55b.rlib: /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/mnt/e/NEAR Projects/zoo-dapp/contract/target/wasm32-unknown-unknown/release/deps/borsh-50c65a4a11f6a55b.d: /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs:
+/home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs:
+/home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs:
+/home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs:
+/home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs:
+/home/aejaz/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs:
